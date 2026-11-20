@@ -41,7 +41,7 @@ from zoneinfo import ZoneInfo
 # BOT TOKEN
 # ============================================================
 
-TOKEN = "8872317208:AAHJIr8JOp7-hZkkaYY8sdiXxF1Nlt8R8QE"
+TOKEN = ""
 
 
 # ============================================================
